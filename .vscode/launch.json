@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - quickSort",
+            "request": "launch",
+            "mainClass": "quickSort",
+            "projectName": "algorithms_77962167"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mergeSort",
+            "request": "launch",
+            "mainClass": "mergeSort",
+            "projectName": "algorithms_77962167"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - insertionSort",
+            "request": "launch",
+            "mainClass": "insertionSort",
+            "projectName": "algorithms_77962167"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - selectionSort",
+            "request": "launch",
+            "mainClass": "selectionSort",
+            "projectName": "algorithms_77962167"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bubbleSort",
+            "request": "launch",
+            "mainClass": "bubbleSort",
+            "projectName": "algorithms_77962167"
+        }
+    ]
+}
