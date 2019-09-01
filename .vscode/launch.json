@@ -2,37 +2,21 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - quickSort",
+            "name": "CodeLens (Launch) - Main",
             "request": "launch",
-            "mainClass": "quickSort",
-            "projectName": "algorithms_77962167"
+            "mainClass": "Main"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - mergeSort",
+            "name": "CodeLens (Launch) - Main",
             "request": "launch",
-            "mainClass": "mergeSort",
-            "projectName": "algorithms_77962167"
+            "mainClass": "dataStructures.linkedlist.Main"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - insertionSort",
+            "name": "CodeLens (Launch) - Main",
             "request": "launch",
-            "mainClass": "insertionSort",
-            "projectName": "algorithms_77962167"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - selectionSort",
-            "request": "launch",
-            "mainClass": "selectionSort",
-            "projectName": "algorithms_77962167"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - bubbleSort",
-            "request": "launch",
-            "mainClass": "bubbleSort",
+            "mainClass": "dataStructures.linkedlist.Main",
             "projectName": "algorithms_77962167"
         }
     ]
