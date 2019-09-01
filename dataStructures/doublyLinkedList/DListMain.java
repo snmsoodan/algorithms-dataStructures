@@ -1,15 +1,14 @@
 
-
 /**
- * Main
+ * DListMain
  */
-public class Main {
+public class DListMain {
 
     public static void main(String[] args) {
-        // intLinkedList list =  new intLinkedList(); // 2 wont be added 
-
-        // list.insertItem(5);
-        // list.insertItem(8);
+        // DIntList list =  new DIntList(); // 2 wont be added 
+        
+        // System.out.println(list.insertItem(5));
+        // System.out.println(list.insertItem(8));
         // list.printList();
         // System.out.println(list.deleteItem(5));
         // list.printList();
@@ -25,6 +24,7 @@ public class Main {
         // list.insertItemAtEnd(5);
         // list.insertItemAtEnd(8);
         // list.printList();
+        // System.out.println("after sort");
         // list.sortList();
         // list.printList();
 
