@@ -1,11 +1,9 @@
+package algorithms;
+
 /**
- * insertionSort
- * Time complexity 
- *  best case O(n) 
- *  average case - 
- *  worst case - O(n^2)
- *  insertion sort is better than bubble and selection 
- *  sort in terms of number of comparisons
+ * insertionSort Time complexity best case O(n) average case - worst case -
+ * O(n^2) insertion sort is better than bubble and selection sort in terms of
+ * number of comparisons
  */
 public class insertionSort {
 

@@ -1,3 +1,5 @@
+package algorithms;
+
 import java.util.Random;
 
 /**
@@ -7,7 +9,7 @@ import java.util.Random;
  * Not stable
  * Time complexity 
  * Best case O(nlogn)
- * Worst case O(n^2)
+ * Worst case O(n^2) this can be avoided using randomised quicksort
  */
 public class quickSort {
 

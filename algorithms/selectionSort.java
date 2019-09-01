@@ -1,6 +1,7 @@
+package algorithms;
+
 /**
- * selectionSort
- * Time complexity - O(n^2)
+ * selectionSort Time complexity - O(n^2)
  */
 public class selectionSort {
 
@@ -27,7 +28,7 @@ public class selectionSort {
             int temp;
             int imin = i;
             for(int j=i+1;j<n;j++) {
-                if(A[j] < A[imin]) {
+                if(A[j] < A[imin]) {    //find the index of the minimum element  
                     imin = j;
                 }
 

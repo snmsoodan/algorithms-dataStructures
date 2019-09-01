@@ -1,11 +1,8 @@
+package algorithms;
+
 /**
- * mergeSort
- * Divide and conquer
- * Recursive
- * stable
- * Not inplace
- * space complexity - O(n)
- * Time complexity - O(nlogn)
+ * mergeSort Divide and conquer Recursive stable Not inplace space complexity -
+ * O(n) Time complexity - O(nlogn)
  */
 public class mergeSort {
 

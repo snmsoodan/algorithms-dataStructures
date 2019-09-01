@@ -1,10 +1,8 @@
+package algorithms;
+
 /**
- * bubbleSort
- * time complexity - O(n^2) 
- *  Best case - O(n)
- *  Average case - O(n^2)
- *  Worst Case - 
- * space complexity - 
+ * bubbleSort time complexity - O(n^2) Best case - O(n) Average case - O(n^2)
+ * Worst Case - space complexity -
  */
 public class bubbleSort {
 
